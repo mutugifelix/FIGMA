@@ -1,0 +1,178 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" /></head><body><div class="v3_3"><div class="v3_4"></div><span class="v3_6">CLASS PORTAL</span><span class="v3_7">PORTAL</span><span class="v3_8">ASSIGNMENTS</span><div class="v3_10"></div><span class="v3_15">Karibu to Masomo Platform, this is our class 
+portal area.
+Here you will read notes and perform simple
+tasks and exercises. </span><div class="v3_33"></div><div class="v3_34"></div><span class="v3_35">ASSIGNMENTS</span><span class="v3_36">SUBMIT</span><div class="v30_3"></div><div class="v30_4"></div><div class="name"></div><span class="v30_7">NOTES</span><span class="v30_10">NOTES</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v3_3 {
+  width: 100%;
+  height: 1015px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_4 {
+  width: 100%;
+  height: 126px;
+  background: rgba(236,190,25,1);
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  left: 64px;
+  overflow: hidden;
+}
+.v3_6 {
+  width: 296px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 77px;
+  left: 111px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_7 {
+  width: 154px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 77px;
+  left: 620px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_8 {
+  width: 290px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 77px;
+  left: 1032px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_10 {
+  width: 875px;
+  height: 355px;
+  background: rgba(236,25,25,1);
+  opacity: 1;
+  position: absolute;
+  top: 223px;
+  left: 993px;
+}
+.v3_15 {
+  width: 659px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 282px;
+  left: 1043px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_33 {
+  width: 325px;
+  height: 143px;
+  background: rgba(124,23,96,1);
+  opacity: 1;
+  position: absolute;
+  top: 830px;
+  left: 295px;
+  border-radius: 50%;
+}
+.v3_34 {
+  width: 325px;
+  height: 143px;
+  background: rgba(124,23,96,1);
+  opacity: 1;
+  position: absolute;
+  top: 822px;
+  left: 1410px;
+  border-radius: 50%;
+}
+.v3_35 {
+  width: 261px;
+  color: rgba(236,25,25,1);
+  position: absolute;
+  top: 876px;
+  left: 323px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_36 {
+  width: 150px;
+  color: rgba(106,159,65,1);
+  position: absolute;
+  top: 867px;
+  left: 1497px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v30_3 {
+  width: 317px;
+  height: 148px;
+  background: rgba(65,181,62,1);
+  opacity: 1;
+  position: absolute;
+  top: 638px;
+  left: 111px;
+  overflow: hidden;
+}
+.v30_4 {
+  width: 317px;
+  height: 148px;
+  background: rgba(65,181,62,1);
+  opacity: 1;
+  position: absolute;
+  top: 638px;
+  left: 1410px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v30_7 {
+  width: 124px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 690px;
+  left: 200px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v30_10 {
+  width: 124px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 701px;
+  left: 1524px;
+  font-family: Inter;
+  font-weight: Bold Italic;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
